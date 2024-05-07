@@ -1,3 +1,7 @@
 Hello World in file
 
+<<<<<<< HEAD
 added from local repo
+=======
+sdds
+>>>>>>> 918e42274d31563fdc094b50c5d89d13e5a676c2
